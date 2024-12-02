@@ -216,6 +216,21 @@ nav ul li a {
 	color: #fd6e0a;
 }
 
+/* Video Section */
+
+.video-section{
+
+	max-width: 1140px;
+	height: 614px;
+	margin: 40px auto;
+	background-color: #f1eded;
+	padding: 20px;
+	border-radius: 16px;
+}
+iframe{
+	border-radius: 12px;
+}
+
 .form-section {
 	display: flex;
 	flex-direction: column;
